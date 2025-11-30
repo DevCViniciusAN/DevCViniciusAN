@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Ola, eu me chamo Claudio Vinicius, pode me chamar por Vini!
+
+Me formei em Analise e desemvolvimento de sistemas pela UCDB em 2022 a 2024!
